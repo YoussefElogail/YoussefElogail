@@ -78,12 +78,14 @@
 <br>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youssefelogail&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefelogail&show_icons=true&theme=tokyonight)
   </div>
   <div align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=youssefelogail&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefelogail&size_weight=0.5&count_weight=&theme=tokyonight)
   </div>
-
+  
 
 
 
