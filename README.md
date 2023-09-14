@@ -18,7 +18,7 @@
 - I love learning
 - I love solving problems
 - Personal website [link](https://youssef-elogail.firebaseapp.com/)
-- I'm currently open for a new jobopportunity, this is [my CV]([https://drive.google.com/file/d/1viv1l4ir5tvYC4g3YlGEHcsK7oVY2DHf/view?usp=drive_link](https://github.com/YoussefElogail/YoussefElogail/files/12611151/Youssef_EL-Ogail.1.pdf))
+- I'm currently open for a new jobopportunity, this is [my CV]([https://github.com/YoussefElogail/YoussefElogail/files/12611151/Youssef_EL-Ogail.1.pdf})
 
 <br>
 
