@@ -17,8 +17,7 @@
 - I always strive to develop and improve my knowledge and skills
 - I love learning
 - I love solving problems
-- Personal website [link](https://youssef-elogail.firebaseapp.com/)
-- I'm currently open for a new jobopportunity, this is [my CV](https://github.com/YoussefElogail/YoussefElogail/files/12611151/Youssef_EL-Ogail.1.pdf)
+- This is [my CV](https://github.com/user-attachments/files/16569408/Youssef-Elogail.pdf)
 
 <br>
 
