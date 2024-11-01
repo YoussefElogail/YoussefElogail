@@ -6,7 +6,7 @@
 </p>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
+##  **About me**
 
 
 
@@ -17,7 +17,7 @@
 - I always strive to develop and improve my knowledge and skills
 - I love learning
 - I love solving problems
-- This is [my CV](https://github.com/user-attachments/files/16569408/Youssef-Elogail.pdf)
+- This is [my CV](https://github.com/user-attachments/files/17599591/Youssef_El-Ogail.Frontend.pdf)
 
 <br>
 
@@ -33,8 +33,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React_Query](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <br>
 
 👉 **UI Frameworks** 
@@ -119,4 +122,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Last Edited on: 09/14/2023
+Last Edited on: 11/1/2024
