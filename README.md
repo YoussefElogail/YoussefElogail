@@ -17,7 +17,7 @@
 - I always strive to develop and improve my knowledge and skills
 - I love learning
 - I love solving problems
-- This is [my CV](https://github.com/user-attachments/files/17599591/Youssef_El-Ogail.Frontend.pdf)
+- This is [my CV](https://github.com/user-attachments/files/17788069/Youssef.El-Ogail.frontend.pdf)
 
 <br>
 
@@ -37,6 +37,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React_Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
 <br>
 
 👉 **UI Frameworks** 
